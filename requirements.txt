@@ -1,0 +1,8 @@
+shiny
+shinywidgets
+pandas>=2.0.0
+matplotlib
+plotly
+seaborn
+pyarrow
+numpy
